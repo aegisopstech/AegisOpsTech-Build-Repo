@@ -6,3 +6,5 @@ pages_build_output_dir = "site"
 # [vars]
 # CONTACT_TO = "you@example.com"
 # Secret (never commit): RESEND_API_KEY  ->  wrangler pages secret put RESEND_API_KEY
+CONTACT_TO = "no-reply@aegisopstech.me"
+
