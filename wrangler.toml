@@ -1,0 +1,8 @@
+name = "aegisops-site"
+compatibility_date = "2026-10-01"
+pages_build_output_dir = "site"
+
+# Non-secret setting. Set your real inbox here or in the Cloudflare dashboard.
+# [vars]
+# CONTACT_TO = "you@example.com"
+# Secret (never commit): RESEND_API_KEY  ->  wrangler pages secret put RESEND_API_KEY
